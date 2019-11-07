@@ -1,7 +1,6 @@
 package service.impl;
 
 import entity.Invocation;
-import service.HelloService;
 import service.Interceptor;
 
 import java.lang.reflect.InvocationHandler;
